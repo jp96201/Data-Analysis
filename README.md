@@ -8,7 +8,10 @@ the most important variables caused heart disease, and predict wether one person
 data.
 
 # Other
+## ANOVA
 In another course (Quantative research), I also learned how to use **ANOVA** to test the statistical difference of a dependent variable
 in terms of one or more independent variables (factors);
+## MANOVA
 **MANOVA** is ANOVA with multiple dependent variables.
+## Longitudinal analysis
 Also, I learned the longitudinal analysis, which test multiple variables over a period of time.
